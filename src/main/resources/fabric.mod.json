@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "autobot",
+	"version": "${version}",
+	"name": "AutoBot Mod",
+	"description": "Автоматическая атака мобов, авто-еда и авто-питьё Зелья Дурного Знамения. Включается на кнопку K.",
+	"authors": [
+		"AutoBot Developer"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/"
+	},
+	"license": "MIT",
+	"icon": "assets/autobot/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.ExampleMod"
+		],
+		"client": [
+			"com.example.client.ExampleModClient"
+		]
+	},
+	"mixins": [
+		"autobot.mixins.json",
+		{
+			"config": "autobot.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

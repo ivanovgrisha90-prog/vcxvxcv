@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 4
+    },
+    "minecraft:killed": {
+      "minecraft:pillager": 10
+    },
+    "minecraft:used": {
+      "minecraft:pillager_spawn_egg": 6,
+      "minecraft:stripped_oak_log": 11,
+      "minecraft:netherite_sword": 23,
+      "minecraft:ominous_bottle": 1,
+      "minecraft:enchanted_golden_apple": 2,
+      "minecraft:milk_bucket": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:ominous_bottle": 2,
+      "minecraft:crossbow": 2,
+      "minecraft:white_banner": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 4479,
+      "minecraft:walk_one_cm": 6022,
+      "minecraft:mob_kills": 10,
+      "minecraft:damage_taken": 80,
+      "minecraft:damage_dealt": 1415,
+      "minecraft:play_time": 4479,
+      "minecraft:jump": 86,
+      "minecraft:time_since_death": 4479,
+      "minecraft:sprint_one_cm": 4316,
+      "minecraft:fall_one_cm": 3575,
+      "minecraft:total_world_time": 16494,
+      "minecraft:fly_one_cm": 12991,
+      "minecraft:crouch_one_cm": 10,
+      "minecraft:sneak_time": 33
+    }
+  },
+  "DataVersion": 4671
+}

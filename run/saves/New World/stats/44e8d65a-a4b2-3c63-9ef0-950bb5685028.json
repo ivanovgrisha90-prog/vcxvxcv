@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:oak_wood": 1,
+      "minecraft:netherite_sword": 3,
+      "minecraft:ominous_bottle": 2,
+      "minecraft:enchanted_golden_apple": 2,
+      "minecraft:milk_bucket": 1
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:bone": 1
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 115,
+      "minecraft:time_since_rest": 4517,
+      "minecraft:walk_one_cm": 1113,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 464,
+      "minecraft:damage_taken": 380,
+      "minecraft:damage_dealt": 200,
+      "minecraft:play_time": 9909,
+      "minecraft:damage_absorbed": 157,
+      "minecraft:jump": 57,
+      "minecraft:time_since_death": 4255,
+      "minecraft:sprint_one_cm": 3410,
+      "minecraft:fall_one_cm": 7200,
+      "minecraft:total_world_time": 9939,
+      "minecraft:fly_one_cm": 27887,
+      "minecraft:walk_on_water_one_cm": 624,
+      "minecraft:deaths": 1
+    }
+  },
+  "DataVersion": 4671
+}

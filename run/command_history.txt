@@ -1,0 +1,50 @@
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/effect give @p minecraft:hunger 60 2
+/gamemode creative
+/gamemode survival
+/effect give @p minecraft:hunger 60 2
+/gamemode creative
+/gamemode survival
+/reg povar321 povar321
+/gm 1
+/rtp
+/gm 1
+/gamemode creative
+/gm 0
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/effect give @p minecraft:hunger 60 2
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/ызфцт
+/spawn
+/rg info
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
